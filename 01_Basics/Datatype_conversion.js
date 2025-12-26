@@ -39,3 +39,35 @@ console.log(typeof strinconvert);
 //as per the upper ex we can convert number to string 
 
 
+// ************ Operation in JS ************
+
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(3/2);
+// console.log(2*2);
+// console.log(3**2);
+// console.log(2%3); // ** when we use double * it means it will perform square here it will do square of 3 which is 9
+
+let str1="hello" //we can also add string in js
+let str2=" Meet"
+
+let str3=str1+str2
+
+console.log(str3); //add both string and will output hello Meet
+
+console.log("1"+2); 
+console.log("1"+"2");
+console.log("1"+2+2);
+console.log(2+2+"1");
+
+let gameCounter = 100
+gameCounter++ //increment operator
+--gameCounter //decrement operator
+
+console.log(gameCounter);
+
+
+
+
+
