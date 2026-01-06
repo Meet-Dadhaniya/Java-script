@@ -1,2 +1,2 @@
 # Java-script
-A code repo for Java-script learning journey.
+A code repo to learn Java-script.
